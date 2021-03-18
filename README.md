@@ -1,2 +1,10 @@
-# CryptographicAlgorithm
- 一些拥有用户界面的密码学算法
+#项目介绍
+实现了：
+- DES加解密算法
+- RC4加解密算法
+- 凯撒密码
+- SM4国密算法
+
+#运行环境
+- Python3.7
+- Pyqt5
